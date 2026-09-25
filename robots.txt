@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://attiabadawy3-eng.github.io/hostoryx/sitemap.xml
